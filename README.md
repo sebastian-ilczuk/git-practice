@@ -12,3 +12,5 @@ Uczę się Git i GitHub pod projekty analityczne i portfolio.
 
 Repozytorium jest połączone z GitHubem
 
+
+Ta zmiana została wykonana bezpośrednio na GitHubie.
